@@ -1,0 +1,9 @@
+Visa						 / 4242424242424242 / 3 random digits / Any date after today's date
+Visa (debit)				 / 4000056655665556 / 3 random digits	/ Any date after today's date
+MasterCard				 / 5555555555554444 / 3 random digits	/ Any date after today's date
+Mastercard (series 2)  / 2223003122003222 / 3 random digits	/ Any date after today's date
+Mastercard (debit)	    / 5200828282828210 / 3 random digits	/ Any date after today's date
+Mastercard (prepaid)	 / 5105105105105100 / 3 random digits	/ Any date after today's date
+American Express		 / 378282246310005	 / 4 random digits	/ Any date after today's date
+American Express		 / 371449635398431	 / 4 random digits	/ Any date after today's date
+Discover					 / 6011111111111117 / 3 random digits	/ Any date after today's date
